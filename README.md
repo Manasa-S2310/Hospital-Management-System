@@ -32,14 +32,18 @@ The existing paper-based system for keeping OPD records posed challenges in data
 
 ## Technologies Used
 
+![241374378-0b9e95e2-b3f0-41bb-b76f-75c275273389](https://github.com/Manasa-S2310/Hospital-Management-System/assets/157489387/3bea34f3-4c0b-425b-b3d0-1389ebdb19a3)
+
+
 - **Front-end Technologies:**
+
   - HTML
   - CSS
   - Bootstrap
   - JavaScript
 
 - **Back-end Technologies:**
-  - SpringMVC
+  
   - Hibernate
 
 - **Database:**
@@ -47,6 +51,7 @@ The existing paper-based system for keeping OPD records posed challenges in data
 
 - **Project Management Tool:**
   - Maven
+  - Eclipse IDE
 
 - **Web Server:**
   - Apache Tomcat
@@ -85,16 +90,19 @@ Include user details such as name, role, and contact information.
 ## Snapshots
 
 - **Homepage**
-  
+![Screenshot 2024-01-24 142700](https://github.com/Manasa-S2310/Hospital-Management-System/assets/157489387/7cb3de9f-a866-4781-b105-0c125cdffa16)
 
 - **Login Page**
 
+![Screenshot 2024-01-24 143354](https://github.com/Manasa-S2310/Hospital-Management-System/assets/157489387/fc376ffd-e5fb-44c6-afce-222e045b2004)
+
 
 - **Administrator Dashboard**
- 
+
+![Screenshot 2024-01-24 142801](https://github.com/Manasa-S2310/Hospital-Management-System/assets/157489387/af48e235-4af5-49ac-9754-6be46efd8b55)
 
 - **Doctor Dashboard**
- 
+![Screenshot 2024-01-24 142826](https://github.com/Manasa-S2310/Hospital-Management-System/assets/157489387/2a780618-b12b-44a6-a9f4-ad4846da2fa8)
 
 Thank you for exploring our Hospital Management System! If you have any questions or feedback, feel free to reach out. Happy managing!
 
