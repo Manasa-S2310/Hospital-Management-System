@@ -1,13 +1,13 @@
-# Hospital Management System
+# MediFlow Plus
 
 ## Overview
 
-Welcome to the Hospital Management System, a comprehensive solution designed to address traditional issues in hospital management. The system provides an efficient digital platform for managing OPD records, addressing concerns such as data overload for doctors, receptionists, and administrators. By offering separate user accounts for doctors and staff, the project ensures organized data management, quick retrieval of patient records, and simplified prescription generation.
+Welcome to the MediFlow Plus, a comprehensive solution designed to address traditional issues in hospital management. The system provides an efficient digital platform for managing OPD records, addressing concerns such as data overload for doctors, receptionists, and administrators. By offering separate user accounts for doctors and staff, the project ensures organized data management, quick retrieval of patient records, and simplified prescription generation.
 
 
 ## Description
 
-The existing paper-based system for keeping OPD records posed challenges in data keeping, time wastage, and patient understanding of prescriptions. The Hospital Management System resolves these issues by introducing separate user accounts, efficient data management, and enhanced features. Developed in Java, the system utilizes MySQL as the backend database and incorporates SpringMVC and Hibernate frameworks for a secure and high-performance web application.
+The existing paper-based system for keeping OPD records posed challenges in data keeping, time wastage, and patient understanding of prescriptions. The MediFlow Plus resolves these issues by introducing separate user accounts, efficient data management, and enhanced features. Developed in Java, the system utilizes MySQL as the backend database and incorporates SpringMVC and Hibernate frameworks for a secure and high-performance web application.
 
 
 ## Setup Instructions
